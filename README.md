@@ -22,6 +22,6 @@ A responsive and visually appealing music subscription landing page built using 
 2. Open `index.html` in any web browser
 
 ```bash
-git clone https://github.com/your-username/music-subscription-page.git
+git clone (https://praveenkumar1434.github.io/Music_Subscription_Page/)
 cd music-subscription-page
 open index.html
